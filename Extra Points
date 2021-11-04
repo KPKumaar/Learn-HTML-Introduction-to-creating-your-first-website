@@ -1,0 +1,14 @@
+<br>  --  it is a self closing tag ; previously <br/> now slash is not needed 
+<u> </u>  (or)  <ins> </ins>  -- Underlines the content
+<strike> </striike>  (or)  <del> </del>  -- strikes the content
+<big> </big> -- contents size is increased (letter size)
+<small> </small> -- contents size is decreased (letter size)
+<q> </q> --  content is kept inside quotes
+<code> </code> -- content font is changed to IDE font
+<b> </b>  (or)  <strong> </strong>  --  content is displayed with bold font
+<em> </em>  (or)  <i> </i>  --  content is displayed with italic font
+href = " "   --   url is given as a value so that when clicked it opens the url webpage
+target = " "   --   target means where to open the url web page
+title = " "   --   when cursor is placed on the element on the webpage it displays a message ; what that link is for
+<img>  --  this tag is used to add images and ||  src = " "  --  this attribute is used to give the path/address of the image
+to access with id attribute we use # before id value
